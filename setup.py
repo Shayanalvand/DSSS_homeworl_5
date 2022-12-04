@@ -6,9 +6,10 @@ setup(
     author='shayan alvand',
     author_email='shayaan.alvandiya22@gmail.com',
     url='',
+    description='for drwing colorful snowf objects',
     license='Apache 2.0',
     packages=find_packages(),
-    description='for drwing colorful snowflake'
+    
     
 )
 

@@ -9,8 +9,6 @@ setup(
     description='for drwing colorful snowf objects',
     license='Apache 2.0',
     packages=find_packages(),
-    
-    
 )
 
 

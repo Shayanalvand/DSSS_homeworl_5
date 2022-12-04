@@ -9,7 +9,7 @@ setup(
     author_email='shayaan.alavandniya22@gmail.com',
     license='Apache License',
     packages=['snowflake'],
-    install_requires=[],
+    install_requires=['numpy', 'turtles'],
     classifiers=[
         'Development Status :: 1 - Planning',
         'Intended Audience :: Science/Research',

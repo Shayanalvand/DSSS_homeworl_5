@@ -9,5 +9,5 @@ setup(
     author_email='shayaan.alavandniya22@gmail.com',
     license='Apache License',
     packages=['snowflake'],
-    install_requires=['turtle']
+    install_requires=['turtle'],
 )

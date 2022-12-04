@@ -8,7 +8,8 @@ setup(
     url='',
     license='Apache 2.0',
     packages=find_packages(),
-    description='Let you draw snowflakes'
+    description='for drwing colorful snowflake'
+    
 )
 
 
